@@ -1,6 +1,6 @@
-Environment Variables
+## Environment Variables
 
-Live in .env file
+Live in `.env` file
 
 | Variable | Description | Link |
 |:---:|:---:|:---:|
