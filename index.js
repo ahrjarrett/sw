@@ -1,4 +1,5 @@
 const fetch = require("node-fetch")
+require("dotenv").config()
 
 // Variables:
 const SPREADSHEET_URI = "https://docs.google.com/spreadsheets/d/1qBDiQVBcs3EAX0Y1ZaS7QxgjYCO7t4wnQxitsmkY3xo/edit#gid=0"
@@ -49,4 +50,5 @@ fetchJson(JSON_URI)
       getValueAtCell(json)(row, column)
     )
   })
+
 
