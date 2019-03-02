@@ -1,6 +1,8 @@
 Currently returns a public Google Sheet’s data as JSON.
 
-This article about [using Google Sheets as a JSON babckend](https://coderwall.com/p/duapqq/use-a-google-spreadsheet-as-your-json-backend) inspired this project.
+## Project
+
+Project inspired by this article about [using Google Sheets as a JSON backend](https://coderwall.com/p/duapqq/use-a-google-spreadsheet-as-your-json-backend).
 
 ## Environment Variables
 
